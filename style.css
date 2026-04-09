@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(236, 211, 248);
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: rgb(208, 255, 0);
+    font-size:large;
+}
+
+.card{
+    background-color: bisque;
+    width: 150px;
+    height: 225px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+img{
+    width: 100px;
+}
+
+button{
+    background-color: blueviolet;
+    border:none;
+    color: rgb(208, 255, 0);
+    padding: 15px 32px;
+    text-align: center;
+}
